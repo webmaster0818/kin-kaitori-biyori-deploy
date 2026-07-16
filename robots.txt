@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+
+Sitemap: https://gold-biyori.com/sitemap.xml
